@@ -1,4 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vinay Siddharudh Thisake</h1>
+
+![Profile Views](https://komarev.com/ghpvc/?username=vinay9943&style=for-the-badge)
+
+![Power BI](https://img.shields.io/badge/Power_BI-Expert-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-CRM-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+
 <h3 align="center">Data Analyst | Power BI | SQL | Python | Salesforce | SAP | Aspiring Data Engineer</h3>
 
 <p align="center">
@@ -44,14 +52,18 @@ Passionate about transforming raw data into meaningful insights through data cle
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 ### ⚙️ Tools
-- Git
-- GitHub
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 🚀 Currently Learning
-- Azure Data Factory
-- Azure SQL Database
-- ETL Pipelines
-- Data Warehousing
+
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-Pipelines-blue?style=for-the-badge)
+![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-orange?style=for-the-badge)
 
 ---
 
