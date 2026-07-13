@@ -119,10 +119,10 @@ I aspire to become a **Data Engineer**, building scalable data pipelines and clo
 
 ## 📊 GitHub Stats
 
-<p align="center">
+[<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vinay9943&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay9943&layout=compact&theme=tokyonight" height="180"/>
-</p>
+</p>](https://github-readme-stats.vercel.app/api?username=vinay9943&show_icons=true&theme=tokyonight)
 
 ---
 
