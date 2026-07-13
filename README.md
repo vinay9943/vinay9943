@@ -39,8 +39,9 @@ Passionate about transforming raw data into meaningful insights through data cle
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ### ☁️ Business Applications
-- Salesforce
-- SAP
+
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 ### ⚙️ Tools
 - Git
