@@ -119,7 +119,9 @@ I aspire to become a **Data Engineer**, building scalable data pipelines and clo
 
 ## 📊 GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=vinay9943&show_icons=true&theme=tokyonight
+![Vinay's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vinay9943&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vinay9943&layout=compact&theme=tokyonight)
 
 ⭐ **Thank you for visiting my GitHub profile!**
 
