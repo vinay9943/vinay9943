@@ -108,7 +108,7 @@ I aspire to become a **Data Engineer**, building scalable data pipelines and clo
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vinay9943&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vinay9943&layout=compact&theme=tokyonight&langs_count=8"/>
+
 </p>
 
 
