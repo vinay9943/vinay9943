@@ -123,20 +123,25 @@ I aspire to become a **Data Engineer**, building scalable data pipelines and clo
 
 
 ## 📫 Connect With Me
-
 <p align="left">
+  <a href="mailto:Vthisake2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="https://github.com/vinay9943">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <a href="https://www.linkedin.com/in/vinay-thisake-097200299">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-</a>
-
-<a href="https://www.linkedin.com/in/vinay-thisake-097200299">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-
-</a>
-
+  <a href="https://github.com/vinay9943">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
+
+📧 **Email:** Vthisake2@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/vinay-thisake-097200299
+
+💻 **GitHub:** https://github.com/vinay9943
 ---
 
 ⭐ **Thank you for visiting my GitHub profile!**
