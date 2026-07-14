@@ -50,10 +50,10 @@ Passionate about transforming raw data into meaningful insights through data cle
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 🚀 Currently Learning
-- Azure Data Factory
-- Azure SQL Database
-- ETL Pipelines
-- Data Warehousing
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-Pipelines-blue?style=for-the-badge)
+![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-orange?style=for-the-badge)
 
 ---
 
