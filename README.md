@@ -70,7 +70,7 @@ Passionate about transforming raw data into meaningful insights through data cle
 - SQL Data Analysis *(Coming Soon)*
 
 ### 🐍 Python
-- Data Analysis Projects *(Coming Soon)*
+- 🛍️ Diwali Sales Analysis
 
 ---
 
