@@ -118,6 +118,14 @@ I aspire to become a **Data Engineer**, building scalable data pipelines and clo
 </p>
 
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vinay9943&theme=tokyonight&row=1&column=6"/>
+</p>
+
+
+
 ## 📫 Connect With Me
 
 - 💻 GitHub: https://github.com/vinay9943
