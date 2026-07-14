@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vinay Siddharudh Thisake</h1>
-<h3 align="center">Data Analyst | Power BI | SQL | Python | Salesforce | SAP | Aspiring Data Engineer</h3>
+![Profile Views](https://komarev.com/ghpvc/?username=vinay9943&style=for-the-badge)
+
+![Power BI](https://img.shields.io/badge/Power_BI-Expert-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-CRM-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 <p align="center">
 Passionate about transforming raw data into meaningful insights through data cleaning, visualization, reporting, and automation.
