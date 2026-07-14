@@ -105,10 +105,11 @@ Responsibilities:
 I aspire to become a **Data Engineer**, building scalable data pipelines and cloud-based solutions while continuously improving my skills in analytics, automation, and modern data technologies.
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinay9943&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay9943&layout=compact&theme=tokyonight" height="180"/>
-</p>
+
+![Vinay's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vinay9943&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vinay9943&layout=compact&theme=tokyonight)
+
 
 ## 🔥 GitHub Streak
 
