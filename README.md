@@ -137,10 +137,6 @@ I aspire to become a **Data Engineer**, building scalable data pipelines and clo
   </a>
 </p>
 
-📧 **Email:** Vthisake2@gmail.com
-
-💼 **LinkedIn:** https://www.linkedin.com/in/vinay-thisake-097200299
-
 💻 **GitHub:** https://github.com/vinay9943
 ---
 
