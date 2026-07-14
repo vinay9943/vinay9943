@@ -57,11 +57,11 @@ Passionate about transforming raw data into meaningful insights through data cle
 ## 📂 Featured Projects
 
 ### 📊 Power BI
-- Health Disease Dashboard
+- 📊 Health Disease Dashboard → Repository Link
 - Sales Dashboard
 
 ### 📈 Excel
-- Blinkit Sales Dashboard
+- 🏪 Blinkit Sales Dashboard → Repository Link
 
 ### 🧹 Data Preparation
 - Power Query Data Cleaning
@@ -70,7 +70,7 @@ Passionate about transforming raw data into meaningful insights through data cle
 - SQL Data Analysis *(Coming Soon)*
 
 ### 🐍 Python
-- 🛍️ Diwali Sales Analysis
+- 🛍️ Diwali Sales Analysis → Repository Link
 
 ---
 
