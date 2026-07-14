@@ -70,7 +70,7 @@ Passionate about transforming raw data into meaningful insights through data cle
 - SQL Data Analysis *(Coming Soon)*
 
 ### 🐍 Python
-- 🛍️ Diwali Sales Analysis → Repository Link
+- 🛍️ Diwali Sales Analysis → - 🛍️ [Diwali Sales Analysis](https://github.com/vinay9943/Python-Diwali-Sales-Analysis)
 
 ---
 
