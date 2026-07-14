@@ -137,7 +137,6 @@ I aspire to become a **Data Engineer**, building scalable data pipelines and clo
   </a>
 </p>
 
-💻 **GitHub:** https://github.com/vinay9943
 ---
 
 ⭐ **Thank you for visiting my GitHub profile!**
