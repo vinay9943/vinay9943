@@ -110,6 +110,12 @@ I aspire to become a **Data Engineer**, building scalable data pipelines and clo
   <img src="https://github-readme-stats.vercel.app/api?username=vinay9943&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay9943&layout=compact&theme=tokyonight" height="180"/>
 </p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vinay9943&theme=tokyonight" />
+</p>
 ## 📫 Connect With Me
 
 - 💻 GitHub: https://github.com/vinay9943
