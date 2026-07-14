@@ -26,7 +26,7 @@ Passionate about transforming raw data into meaningful insights through data cle
 - 🎯 Goal: Become a **Data Engineer**
 
 ---
-> "Turning data into actionable insights through analytics and visualization."
+
 ## 🛠️ Tech Stack
 
 ### Programming
