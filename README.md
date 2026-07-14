@@ -54,25 +54,34 @@ Passionate about transforming raw data into meaningful insights through data cle
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
 ### 📊 Power BI
-- 📊 Health Disease Dashboard → Repository Link
-- Sales Dashboard
+
+- 🩺 [Health Disease Dashboard](https://github.com/vinay9943/Health-Disease-Dashboard-using-PowerBI)
+  - Interactive dashboard analyzing patient demographics, disease trends, and healthcare KPIs.
+
+- 📈 [Sales Dashboard](https://github.com/vinay9943/PowerBI-Sales-Dashboard)
+  - Interactive Power BI dashboard for monitoring sales performance, KPIs, regional trends, and business insights.
 
 ### 📈 Excel
+
 - 🏪 [Blinkit Sales Dashboard](https://github.com/vinay9943/Excel-Blinkit-Sales-Dashboard)
-
-### 🧹 Data Preparation
-- Power Query Data Cleaning
-
-### 🗄️ SQL
-- SQL Data Analysis *(Coming Soon)*
+  - Excel dashboard analyzing sales, customer behavior, product categories, and key business metrics.
 
 ### 🐍 Python
-- 🛍️ [Diwali Sales Analysis](https://github.com/vinay9943/Python-Diwali-Sales-Analysis)
 
----
+- 🛍️ [Diwali Sales Analysis](https://github.com/vinay9943/Python-Diwali-Sales-Analysis)
+  - Exploratory Data Analysis (EDA) using Python, Pandas, NumPy, Matplotlib, and Seaborn.
+
+### 🧹 Data Preparation
+
+- 🔄 Power Query Data Cleaning
+  - Automated data cleaning, transformation, and preparation using Power Query.
+
+### 🗄️ SQL
+
+- 📊 SQL Data Analysis *(Uploading Soon)*
 
 ## 💼 Professional Experience
 
