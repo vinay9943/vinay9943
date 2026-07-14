@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Data+Analyst;Power+BI+%7C+SQL+%7C+Python;Salesforce+%7C+SAP;Aspiring+Data+Engineer" />
+</p>
 <h1 align="center">Hi 👋, I'm Vinay Siddharudh Thisake</h1>
 
 
