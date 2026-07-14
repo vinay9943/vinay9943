@@ -61,7 +61,7 @@ Passionate about transforming raw data into meaningful insights through data cle
 - Sales Dashboard
 
 ### 📈 Excel
-- 🏪 Blinkit Sales Dashboard → Repository Link
+- 🏪 [Blinkit Sales Dashboard](https://github.com/vinay9943/Blinkit-Sales-Dashboard)
 
 ### 🧹 Data Preparation
 - Power Query Data Cleaning
