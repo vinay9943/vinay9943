@@ -102,9 +102,8 @@ I aspire to become a **Data Engineer**, building scalable data pipelines and clo
 
 ## 📈 Contribution Graph
 
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinay9943&theme=tokyo-night" width="850"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinay9943&theme=tokyo-night" width="600"/>
 </p>
 ## 🔥 GitHub Streak
 
