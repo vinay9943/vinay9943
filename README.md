@@ -18,7 +18,7 @@ Passionate about transforming raw data into meaningful insights through data cle
 ## 👨‍💻 About Me
 
 - 💼 Data Analyst at **Total Environment Building Systems Pvt. Ltd.**
-- 📊 10+ months of professional experience in Data Analytics
+- 📊 Experience in Data Cleaning, Data Validation, Dashboard Development, and CRM Data Management
 - 🧹 Experienced in Data Cleaning, Data Validation & Data Quality
 - 📈 Build interactive dashboards using **Power BI** and **Excel**
 - 🗄️ Skilled in **SQL** for data analysis
