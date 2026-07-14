@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinay Siddharudh Thisake</h1>
-![Profile Views](https://komarev.com/ghpvc/?username=vinay9943&style=for-the-badge)
+
 
 ![Power BI](https://img.shields.io/badge/Power_BI-Expert-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge)
