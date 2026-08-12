@@ -117,7 +117,7 @@ I aspire to become a **Data Engineer**, building scalable data pipelines and clo
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vinay9943&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=vinay9943&theme=tokyonight" width="500" />
 </p>
 
 
