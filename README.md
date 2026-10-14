@@ -3,9 +3,11 @@
 </p>
 <h1 align="center">Hi 👋, I'm Vinay Siddharudh Thisake</h1>
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vinay9943&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=vinay9943&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=flat" alt="Profile Views" />
 </p>
+
 
 <p align="center">
 Passionate about transforming raw data into meaningful insights through data cleaning, visualization, reporting, and automation.
