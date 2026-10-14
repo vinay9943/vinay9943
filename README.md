@@ -4,9 +4,12 @@
 <h1 align="center">Hi 👋, I'm Vinay Siddharudh Thisake</h1>
 
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vinay9943&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Role-Data%20Analyst-blue?style=flat" alt="Role: Data Analyst" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Engineering-orange?style=flat" alt="Focus: Data Engineering" />
 </p>
+
 
 
 <p align="center">
