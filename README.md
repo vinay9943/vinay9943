@@ -44,9 +44,7 @@ Passionate about transforming raw data into meaningful insights through data cle
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### Learning
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-5B5FC7?style=for-the-badge)
+
 
 ---
 
