@@ -4,10 +4,8 @@
 <h1 align="center">Hi 👋, I'm Vinay Siddharudh Thisake</h1>
 
 
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Data%20Analyst-blue?style=flat" alt="Role: Data Analyst" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Engineering-orange?style=flat" alt="Focus: Data Engineering" />
+  <img src="https://views.igorkowalczyk.dev/api/badge/vinay9943?label=Profile+Views" alt="Profile Views" />
 </p>
 
 
