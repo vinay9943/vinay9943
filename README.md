@@ -22,8 +22,6 @@ Passionate about transforming raw data into meaningful insights through data cle
 - 🗄️ Skilled in **SQL** for data analysis
 - 🐍 Experience with **Python, Pandas, NumPy, Matplotlib & Scikit-learn**
 - ☁️ Working with **Salesforce** and **SAP**
-- 🌱 Currently learning **Azure Data Factory**, **Azure SQL**, and **Data Engineering**
-- 🎯 Goal: Become a **Data Engineer**
 
 ---
 
